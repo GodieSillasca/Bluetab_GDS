@@ -1,0 +1,38 @@
+.nav-wrapper{
+    background: #0F6469 !important;
+}
+
+
+.presentacion{
+	color: white;
+	font-family: Helvetica;
+	background: #ED712E;
+}
+
+.titulos{
+	background: #0F6469;
+	color: white;
+	border: 7px;
+	border-style: solid;
+    border-color: #22A3A9;
+    border-radius: 5px;
+	padding: 20px;
+    margin: 20px;
+}
+
+.page-footer{
+    background: #0F6469 !important;
+}
+
+.card-link{
+    color: #ED712E !important;
+}
+
+i.icon-green {
+    color: #0F6469;
+}
+
+h2.headertekst {
+  text-align: center;
+}
+
